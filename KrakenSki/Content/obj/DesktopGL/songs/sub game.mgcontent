@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Joao Soares/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki_Monogame/KrakenSki/Content/songs/sub game.mp3</SourceFile>
+  <SourceTime>2019-06-08T07:13:04.0217254+01:00</SourceTime>
+  <DestFile>C:/Users/Joao Soares/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki_Monogame/KrakenSki/Content/bin/DesktopGL/songs/sub game.xnb</DestFile>
+  <DestTime>2021-06-22T19:45:02.1680068+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Joao Soares/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki_Monogame/KrakenSki/Content/bin/DesktopGL/songs/sub game.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

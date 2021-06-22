@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/WaterSki project/WaterSki/WaterSki/Content/songs/Creo_-_01_-_Place_on_Fire.mp3</SourceFile>
+  <SourceTime>2019-06-08T05:27:53.141394+01:00</SourceTime>
+  <DestFile>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/WaterSki project/WaterSki/WaterSki/Content/bin/DesktopGL/Content/songs/Creo_-_01_-_Place_on_Fire.xnb</DestFile>
+  <DestTime>2019-06-08T07:42:22.8604631+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/WaterSki project/WaterSki/WaterSki/Content/bin/DesktopGL/Content/songs/Creo_-_01_-_Place_on_Fire.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

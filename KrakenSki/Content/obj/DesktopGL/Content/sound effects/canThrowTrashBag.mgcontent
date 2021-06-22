@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/sound effects/canThrowTrashBag.wav</SourceFile>
+  <SourceTime>2019-06-09T21:49:12.430501+01:00</SourceTime>
+  <DestFile>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/bin/DesktopGL/Content/sound effects/canThrowTrashBag.xnb</DestFile>
+  <DestTime>2019-06-10T00:10:08.6923615+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

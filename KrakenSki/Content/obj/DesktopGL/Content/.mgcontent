@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/backgrounds/creditsScreen.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/backgrounds/krakenBossDefeated.JPG</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/backgrounds/levelOver.JPG</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/backgrounds/splashScreen.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/backgrounds/waterBackground.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/boat.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/kraken0.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/kraken1.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/kraken2.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/krakenBoss0.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/krakenBoss1.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/krakenBoss2.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/krakenBossDead.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/krakenInkShot.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/rope.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/ski.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/trash.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/trashBag.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/waterTail0.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/waterTail1.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/characters/waterTail2.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/fonts/ArialBlack20.spritefont</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/fonts/ArialBlack30.spritefont</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/gui/bottomBar.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/gui/crosshair.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/gui/pauseOverlay.png</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/songs/Beach_01.mp3</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/songs/Pacific Ocean.mp3</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/songs/sailor_waltz_with_water_effects_c64_style.mp3</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/songs/sub game.mp3</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/songs/Waterworks.mp3</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/sound effects/canThrowTrashBag.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/sound effects/collectTrash.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/sound effects/healthDamage.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/sound effects/hit.wav</File>
+    <File>C:/Users/João/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki/KrakenSki/Content/sound effects/throwTrashBag.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

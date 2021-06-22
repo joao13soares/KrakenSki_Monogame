@@ -1,0 +1,368 @@
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\canThrowTrashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\collectTrash.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\fan_interval.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\healthDamage.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\hit.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\throwTrashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack20.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack30.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\boat.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken0.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken1.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken2.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\rope.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\ski.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trash.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail0.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail1.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail2.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Creo_-_01_-_Place_on_Fire.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Creo_-_01_-_Place_on_Fire.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\bottomBar.png.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\bottomBar.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\crosshair.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\pauseOverlay.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\creditsScreen.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\levelOver.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\splashScreen.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\waterBackground.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\ArialBlack30.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\boat.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\crosshair.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\kraken.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\rope.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\ski.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\trash.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\trashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\water.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.exe
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.pdb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csprojAssemblyReference.cache
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csproj.CopyComplete
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\obj\Debug\KrakenSki.exe
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki\KrakenSki\obj\Debug\KrakenSki.pdb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\fan_interval.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Creo_-_01_-_Place_on_Fire.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Creo_-_01_-_Place_on_Fire.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\bottomBar.png.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\ArialBlack30.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\boat.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\crosshair.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\kraken.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\rope.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\ski.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\trash.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\trashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\water.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\canThrowTrashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\collectTrash.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\healthDamage.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\hit.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\throwTrashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.ogg
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\bottomBar.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\crosshair.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\pauseOverlay.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack20.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack30.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\boat.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken0.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken1.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken2.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\rope.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\ski.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trash.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trashBag.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail0.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail1.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail2.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\creditsScreen.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\levelOver.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\splashScreen.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\waterBackground.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.exe
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.pdb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csprojAssemblyReference.cache
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csproj.CopyComplete
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.exe
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.pdb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss0.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss1.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss2.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBossDead.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\krakenBossDefeated.xnb
+C:\Users\João\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenInkShot.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\canThrowTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\collectTrash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\fan_interval.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\healthDamage.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\hit.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\throwTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Beach_01.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Beach_01.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Creo_-_01_-_Place_on_Fire.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Creo_-_01_-_Place_on_Fire.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Pacific Ocean.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Pacific Ocean.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sailor_waltz_with_water_effects_c64_style.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sailor_waltz_with_water_effects_c64_style.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sub game.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sub game.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Waterworks.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Waterworks.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\bottomBar.png.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\bottomBar.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\crosshair.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\pauseOverlay.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\fonts\ArialBlack20.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\fonts\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\boat.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\kraken0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\kraken1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\kraken2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBoss0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBoss1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBoss2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBossDead.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenInkShot.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\rope.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\ski.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\trash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\trashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\waterTail0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\waterTail1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\waterTail2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\creditsScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\krakenBossDefeated.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\levelOver.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\splashScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\waterBackground.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\canThrowTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\collectTrash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\healthDamage.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\hit.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\throwTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\boat.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBossDead.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenInkShot.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\rope.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\ski.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\bottomBar.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\crosshair.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\pauseOverlay.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\boat.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\crosshair.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\kraken.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\rope.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\ski.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\trash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\trashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\water.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack20.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\creditsScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\krakenBossDefeated.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\levelOver.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\splashScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\waterBackground.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.exe
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.pdb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csproj.AssemblyReference.cache
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csproj.CoreCompileInputs.cache
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.csproj.CopyComplete
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.exe
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki\KrakenSki\obj\Debug\KrakenSki.pdb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\canThrowTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\collectTrash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\fan_interval.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\healthDamage.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\hit.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\sound effects\throwTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Beach_01.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Beach_01.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Creo_-_01_-_Place_on_Fire.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Creo_-_01_-_Place_on_Fire.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Pacific Ocean.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Pacific Ocean.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sailor_waltz_with_water_effects_c64_style.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sailor_waltz_with_water_effects_c64_style.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sub game.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\sub game.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Waterworks.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\songs\Waterworks.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\bottomBar.png.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\bottomBar.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\crosshair.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\gui\pauseOverlay.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\fonts\ArialBlack20.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\fonts\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\boat.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\kraken0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\kraken1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\kraken2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBoss0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBoss1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBoss2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenBossDead.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\krakenInkShot.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\rope.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\ski.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\trash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\trashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\waterTail0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\waterTail1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\characters\waterTail2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\creditsScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\krakenBossDefeated.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\levelOver.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\splashScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\backgrounds\waterBackground.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\boat.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\crosshair.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\kraken.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\rope.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\ski.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\trash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\trashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\Content\water.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\boat.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\kraken2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBoss2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenBossDead.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\krakenInkShot.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\rope.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\ski.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\trashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail0.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail1.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\characters\waterTail2.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\canThrowTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\collectTrash.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\healthDamage.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\hit.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\sound effects\throwTrashBag.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Beach_01.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Pacific Ocean.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sailor_waltz_with_water_effects_c64_style.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\sub game.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.ogg
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\songs\Waterworks.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\bottomBar.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\crosshair.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\gui\pauseOverlay.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack20.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\fonts\ArialBlack30.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\creditsScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\krakenBossDefeated.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\levelOver.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\splashScreen.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\Content\backgrounds\waterBackground.xnb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.exe
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\KrakenSki.pdb
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\obj\Debug\KrakenSki.csproj.AssemblyReference.cache
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\obj\Debug\KrakenSki.csproj.CoreCompileInputs.cache
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\obj\Debug\KrakenSki.csproj.CopyComplete
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\obj\Debug\KrakenSki.exe
+C:\Users\Joao Soares\Desktop\IPCA\1º ano (2018-2019)\2º Semestre\Técnicas de Desenvolvimento de Jogos\KrakenSki project\KrakenSki_Monogame\KrakenSki\obj\Debug\KrakenSki.pdb

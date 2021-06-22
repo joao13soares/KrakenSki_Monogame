@@ -1,0 +1,21 @@
+Game1
+	ScenesManager
+			ReloadLevelsScenes
+			SplashScreen
+			CreditsScreen
+			Level[]
+						Boat
+									WaterTail
+									Ski
+											HealthBar
+											GUI
+											TrashBagManager
+													TrashBag
+						FloatingStuffManager
+									Trash
+									Kraken
+									KrakenBoss
+											HealthBar
+											KrakenInkShot
+
+

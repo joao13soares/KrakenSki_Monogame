@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Joao Soares/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki_Monogame/KrakenSki/Content/fonts/ArialBlack30.spritefont</SourceFile>
+  <SourceTime>2019-02-22T15:14:00+00:00</SourceTime>
+  <DestFile>C:/Users/Joao Soares/Desktop/IPCA/1º ano (2018-2019)/2º Semestre/Técnicas de Desenvolvimento de Jogos/KrakenSki project/KrakenSki_Monogame/KrakenSki/Content/bin/DesktopGL/fonts/ArialBlack30.xnb</DestFile>
+  <DestTime>2021-06-22T19:44:54.4073394+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
