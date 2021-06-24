@@ -2,7 +2,7 @@
 
 <img src = "https://github.com/joao13soares/KrakenSki_Monogame/blob/main/KrakenSki/Content/backgrounds/splashScreen.png" width = "350">
 
-Kraken Ski game made in Monogame, as a project for the Game Development Techniques university course.
+Kraken Ski is a game made in Monogame, as a project for the Game Development Techniques university course.
 
 The goal of this project was to implement a 2D non-tiled game.
 I decided to implement a Water Ski game where the enemies are Krakens.
