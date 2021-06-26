@@ -15,7 +15,7 @@ Game Mechanics:
 - The Player is damaged by colliding with the Krakens or with the ink shots thrown by the Kraken boss;
 - The Krakens can be damaged by throwing trash bags at them;
 - The moving velocity of the Krakens increases with each level;
-- The trash bags can be obtained after collecting trash from the ocean (the quantity of collected trash increases with each level);
+- The trash bags can be obtained after collecting trash from the ocean (the number of collected trash increases with each level);
 
 This was a project made by:
 - João Soares https://github.com/joao13soares
